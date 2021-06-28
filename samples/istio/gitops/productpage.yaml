@@ -53,11 +53,11 @@ spec:
               fieldRef:
                 fieldPath: metadata.namespace
           - name: color
-            value: "red"
+            value: "violet"
           - name: reward_min
-            value: "0"
+            value: "10"
           - name: reward_max
-            value: "5"
+            value: "20"
           - name: port
             value: "9080"
 ---
